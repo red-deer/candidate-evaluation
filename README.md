@@ -7,9 +7,9 @@ Your task is to create an application for managing a list of To Do items. There 
 
 Please document any assumptions, notes, or considerations that you make in the Assumptions.md file in the root of the repository. Please also document any libraries that you use to complete the task in this file, a note on why you chose some of the libraries over an alternative would be appreciated.
 
-This task is only expected to take a few hours, but please commit regularly so we can see the approach you take to get to the end result.
+It's expected for you to spend no more than 2 hours on this work, but please commit regularly so we can see the approach you take to get to the end result.
 
-This task should be completed in a public fork of this repository, and upon completion should be sent back to Phil at philippe.marti@reddeer.com
+Please host your solution in a public repository of a platform such as GitHub, and upon completion a link should be sent to Phil at philippe.marti@reddeer.com
 
 ### Scope
 
