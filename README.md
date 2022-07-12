@@ -4,9 +4,11 @@ An at home candidate evaluation for full stack engineers at Red Deer.
 ## Red Deer Candidate Evaluation
 Your task is to create an application for managing a list of To Do items. There are two projects set up in this repository (see the [Overview of the Repository section](#overview-of-the-repository) for more information on these), a .Net API to handle requests and persist data and a React UI for a user to interact with the API.
 
-Please document any assumptions, notes, or considerations that you make in the Assumptions.md file in the root of the repository.
+Please document any assumptions, notes, or considerations that you make in the Assumptions.md file in the root of the repository. 
 
-This task should be completed in a public fork of this repository, and upon completion should be sent back to us at:
+This task is only expected to take a few hours, but please commit regularly so we can see the approach you take to get to the end result.
+
+This task should be completed in a public fork of this repository, and upon completion should be sent back to Phil at philippe.marti@reddeer.com
 
 ### Scope
 
@@ -24,7 +26,10 @@ A user should be able to:
 Constraints:
 * You do not need to consider multiple users for this task.
 * You do not need to consider authorization or authentication for this task.
-* To do items to not need to be persisted between sessions.
+* Items do not need to be persisted between sessions.
+* The UI application should be styled, but this does not have to be anything extravagant. 
+    * App layout and the use of spacing and colour are sufficient here. 
+    * It would be prefered to demonstrate the use of Flex Box as a means of handling the layout, but this is not a requirement.
 
 ### Bonus Task
 Persist your To Dos in a relational database of your choosing.
