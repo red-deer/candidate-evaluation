@@ -1,5 +1,6 @@
 # candidate-evaluation-home
 An at home candidate evaluation for full stack engineers at Red Deer.
+* For Devops: There is a homework test in confluence: https://reddeer.atlassian.net/wiki/spaces/EN/pages/1247215622/DevOps+Code+Test
 
 ## Red Deer Candidate Evaluation
 Your task is to create an application for managing a list of To Do items. There are two projects set up in this repository (see the [Overview of the Repository section](#overview-of-the-repository) for more information on these), a .Net API to handle requests and persist data and a React UI for a user to interact with the API.
